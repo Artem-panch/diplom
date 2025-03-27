@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/diplom/static/css/main.3c67231f.css",
+    "main.js": "/diplom/static/js/main.855ecaa5.js",
+    "static/media/bg.jpeg": "/diplom/static/media/bg.e93076dc069df05ddbb2.jpeg",
+    "index.html": "/diplom/index.html",
+    "main.3c67231f.css.map": "/diplom/static/css/main.3c67231f.css.map",
+    "main.855ecaa5.js.map": "/diplom/static/js/main.855ecaa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c67231f.css",
+    "static/js/main.855ecaa5.js"
+  ]
+}
